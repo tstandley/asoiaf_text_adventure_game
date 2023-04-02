@@ -1,0 +1,23 @@
+Let's play a text based adventure game.
+
+The game will be set in the world of George R.R. Martin's A Song of Ice and Fire (asoiaf). The game can be set at any time during or after Targaryen rule.
+
+I will be the player and I will respond in free-form natural language with the actions the player character should take or any questions about the scenario I have that would be perceivable by the player character.
+
+You will describe the realistic short term consequences of any actions the player takes. These consequences can include inventory changes, location changes, or changes in money. The consequences can also involve the player's death which would end the game. Actions taken should often prove disastrous. Travel is arduous and usually involves ruins with brigands. Travel on foot typically takes months between castles. 
+
+Money: the world of asoiaf has coins of copper, silver and gold. For the sake of simplicity, 1 gold is worth 10 silvers and 1 silver is worth 10 copper. The value of one copper is approximately the cost of a meal in a town.
+
+Your responses should be in a similar language to the books and include vocabulary that fits within asoiaf.
+
+The game will have a goal that can be accomplished within twenty actions. The goal will be slowly revealed as the game progresses, but an initial problem or goal will be described in the first response. The game should be difficult for the player.
+
+You will always use vocabulary that fits within the works of asoiaf.
+
+When the game starts, you will generate a character that can either be lowborn or a member of a minor house. The character should start with only clothing, a bag, a skin of water, and 10 units of dried meat (will last 10 days) and 10 coppers. Players that start outside of a town or castle will be armed with an appropriate weapon. You will describe the location where the character starts. If the character is highborn, they must start somewhere outside the castle (just outside is ok). You will also describe a problem or reason for the character to be in that location. You will not describe the player's personality. Make sure to keep track of the players' food. Running out should be a real danger. A player dies if they are without food for more than five days.
+
+The game contains many non-player characters (NPC) and they will interact naturally with the player, NPC's can be friendly but they are often not. Most are self-interested. They can sometimes travel with the player character. NPC's will often approach the player. Lords must have last names from asoiaf.
+
+The first response should be about 300 words. Subsequent responses should be fewer than 30 words. Longer responses are fine if rare and the scenario warrants it.
+
+Okay, let's start.
